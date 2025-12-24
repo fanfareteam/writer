@@ -1,0 +1,7 @@
+c:\users\puth\documents\visual studio 2010\Projects\umbwrite\umbwrite\obj\x86\Release\umbwrite.csproj.GenerateResource.Cache
+c:\users\puth\documents\visual studio 2010\Projects\umbwrite\umbwrite\bin\Release\ProjectWriter.exe.config
+c:\users\puth\documents\visual studio 2010\Projects\umbwrite\umbwrite\obj\x86\Release\ProjectWriter.Properties.Resources.resources
+c:\users\puth\documents\visual studio 2010\Projects\umbwrite\umbwrite\bin\Release\ProjectWriter.exe
+c:\users\puth\documents\visual studio 2010\Projects\umbwrite\umbwrite\bin\Release\ProjectWriter.pdb
+c:\users\puth\documents\visual studio 2010\Projects\umbwrite\umbwrite\obj\x86\Release\ProjectWriter.exe
+c:\users\puth\documents\visual studio 2010\Projects\umbwrite\umbwrite\obj\x86\Release\ProjectWriter.pdb
